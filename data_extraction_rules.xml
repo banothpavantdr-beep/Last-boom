@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- JARVIS stores no user files that need backing up in v1. -->
+    </cloud-backup>
+</data-extraction-rules>

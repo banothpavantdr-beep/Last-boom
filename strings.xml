@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="app_subtitle">Your personal Android assistant</string>
+
+    <string name="device_admin_description">JARVIS needs Device Administrator access to lock your screen instantly with the \"Screen off\" voice command.</string>
+
+    <string name="status_permission_required">Permission Required</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_processing">Processing…</string>
+    <string name="status_locked">Locked</string>
+    <string name="status_jarvis_ready">JARVIS IS READY</string>
+
+    <string name="btn_enable_screen_lock">ENABLE SCREEN LOCK</string>
+    <string name="btn_lock_screen_now">LOCK SCREEN NOW</string>
+    <string name="btn_activate_jarvis">ACTIVATE JARVIS</string>
+    <string name="btn_grant_permissions">GRANT PERMISSIONS</string>
+
+    <string name="notification_channel_name">JARVIS Assistant</string>
+    <string name="notification_title">JARVIS is listening</string>
+    <string name="notification_text">Say a command like \"Screen off\"</string>
+
+    <string name="overlay_title">JARVIS</string>
+    <string name="overlay_status_listening">Listening…</string>
+    <string name="overlay_status_processing">Processing…</string>
+    <string name="overlay_status_locked">Screen locked</string>
+    <string name="overlay_status_not_recognized">Not recognized</string>
+    <string name="overlay_status_no_speech">No speech detected</string>
+</resources>
